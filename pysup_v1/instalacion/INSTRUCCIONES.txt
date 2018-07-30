@@ -1,6 +1,6 @@
 Pasos para instalar:
 
-1 - Ejecutar python-2.7.15.amd64.msi. La instalacion es default. Aceptar todas las pestañas que aparescan
+1 - Ejecutar python-2.7.15.amd64.msi (o python-2.7.15.msi para 32 bits). La instalacion es default. Aceptar todas las pestaÃ±as que aparescan
 2 - Click derecho en el archivo configure_python.cmd > Ejecutar como Administrador.
 3 - Reiniciar la pc
 4 - Click derecho en el archivo configure_pysup.cmd > Ejecutar como Administrador.
